@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f382cf02-f375-4084-b67c-8e31108ad156" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Equations.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods2.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/usage.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -193,7 +196,7 @@
       <workItem from="1517751605045" duration="1964000" />
       <workItem from="1528538673185" duration="11093000" />
       <workItem from="1528636488910" duration="9211000" />
-      <workItem from="1578579951907" duration="509000" />
+      <workItem from="1578579951907" duration="860000" />
     </task>
     <servers />
   </component>
