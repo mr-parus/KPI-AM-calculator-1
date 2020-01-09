@@ -1,7 +1,7 @@
 # KPI_AM_calculator_1
 
 ## Equations solving
-![](./equations.png)
+![](./Equations.png)
 
 methods:
 ![](./methods1.png)
