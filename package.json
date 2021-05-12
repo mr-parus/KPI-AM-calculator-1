@@ -21,7 +21,7 @@
     "history": "^4.7.2",
     "immutable": "^3.8.2",
     "material-ui": "^0.19.4",
-    "mathjs": "^3.17.0",
+    "mathjs": "^7.5.1",
     "morgan": "~1.9.0",
     "polynomial": "^1.2.0",
     "react": "^15.6.1",
